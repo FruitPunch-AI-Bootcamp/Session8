@@ -1,1 +1,1 @@
-# Session8
+# Session 8: Reinforcement Learning
